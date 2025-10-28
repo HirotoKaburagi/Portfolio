@@ -32,6 +32,10 @@ main {
   margin: 2rem auto;
 }
 
+ul {
+  padding-left: 10px;
+}
+
 h1, h2 {
   text-align: center;
 }
